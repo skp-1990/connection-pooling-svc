@@ -1,0 +1,6 @@
+# Java build output
+java/target/
+
+# Python bytecode
+python/__pycache__/
+python/*.pyc
